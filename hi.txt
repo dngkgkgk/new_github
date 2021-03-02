@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi you
 youyouyouy
 yoyoyoyoyo
+=======
+hi you
+>>>>>>> parent of 1b4821c (add hi.txt)
